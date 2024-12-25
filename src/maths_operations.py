@@ -1,19 +1,19 @@
 import math
 
 def add(a,b):
-    return print(f"The sum of a and b is: {a+b}")
+    return a+b
 
 def sub(a,b):
-    return print(f"The difference of a and b is: {a-b}")
+    return a-b
 
 def mul(a,b):
-    return print(f"The product of a and b is: {a*b}")
+    return a*b
 
 def div(a,b):
-    return print(f"The division of a and b is: {a/b}")
+    return a/b
 
 def mod(a,b):
-    return print(f"The modulus of a and b is: {a%b}")
+    return a%b
 
 def exp(a,b):
     return print(f"The exponent of a and b is: {a**b}")
