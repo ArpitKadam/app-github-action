@@ -76,7 +76,7 @@ Inside your project folder, you can either copy the ```src/``` folder or install
 
 To use the functions, import them like this:
 ```python
-from MathOperationsPackage.src.maths_operations import add, sub, mul, div, mod
+from my-python-package.src.maths_operations import add, sub, mul, div, mod
 ```
 
 ## 🧪 Running Tests
