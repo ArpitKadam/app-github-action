@@ -20,7 +20,7 @@ To get started, follow these steps:
 1. **Clone the repository** to your local machine:
 
     ```bash
-    git clone https://github.com/ArpitKadam/app-github-action.git
+    git clone https://github.com/ArpitKadam/my-python-package.git
     cd MathOperationsPackage
     ```
 
